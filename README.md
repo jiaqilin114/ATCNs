@@ -1,2 +1,6 @@
-
-![image]https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-CC.png
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-CC.png)
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-FF.png)
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-CC.png)
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-FF.png)
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-CC.png)
+![image](https://github.com/jiaqilin114/ATCNs/blob/oilspilldriftpredication/Sanchi-FF.png)
